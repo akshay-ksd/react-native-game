@@ -1,0 +1,1352 @@
+[
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 0
+        },
+        "end": {
+          "line": 0,
+          "character": 0
+        }
+      },
+      "text": "i",
+      "timestamp": 1705776815484
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 1
+        },
+        "end": {
+          "line": 0,
+          "character": 1
+        }
+      },
+      "text": "m",
+      "timestamp": 1705776816318
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 2
+        },
+        "end": {
+          "line": 0,
+          "character": 2
+        }
+      },
+      "text": "p",
+      "timestamp": 1705776816666
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 3
+        },
+        "end": {
+          "line": 0,
+          "character": 3
+        }
+      },
+      "text": "o",
+      "timestamp": 1705776816913
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 0
+        },
+        "end": {
+          "line": 0,
+          "character": 4
+        }
+      },
+      "text": "import",
+      "timestamp": 1705776817350
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 6
+        },
+        "end": {
+          "line": 0,
+          "character": 6
+        }
+      },
+      "text": " ",
+      "timestamp": 1705776817597
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 7
+        },
+        "end": {
+          "line": 0,
+          "character": 7
+        }
+      },
+      "text": "R",
+      "timestamp": 1705776818385
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 8
+        },
+        "end": {
+          "line": 0,
+          "character": 8
+        }
+      },
+      "text": "e",
+      "timestamp": 1705776818673
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 9
+        },
+        "end": {
+          "line": 0,
+          "character": 9
+        }
+      },
+      "text": "a",
+      "timestamp": 1705776819174
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 10
+        },
+        "end": {
+          "line": 0,
+          "character": 10
+        }
+      },
+      "text": "c",
+      "timestamp": 1705776819347
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 11
+        },
+        "end": {
+          "line": 0,
+          "character": 11
+        }
+      },
+      "text": "t",
+      "timestamp": 1705776819643
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 12
+        },
+        "end": {
+          "line": 0,
+          "character": 12
+        }
+      },
+      "text": " ",
+      "timestamp": 1705776819964
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 13
+        },
+        "end": {
+          "line": 0,
+          "character": 13
+        }
+      },
+      "text": "f",
+      "timestamp": 1705776820818
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 14
+        },
+        "end": {
+          "line": 0,
+          "character": 14
+        }
+      },
+      "text": "r",
+      "timestamp": 1705776821106
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 15
+        },
+        "end": {
+          "line": 0,
+          "character": 15
+        }
+      },
+      "text": "o",
+      "timestamp": 1705776821283
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 16
+        },
+        "end": {
+          "line": 0,
+          "character": 16
+        }
+      },
+      "text": "m",
+      "timestamp": 1705776821622
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 17
+        },
+        "end": {
+          "line": 0,
+          "character": 17
+        }
+      },
+      "text": " ",
+      "timestamp": 1705776821826
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 18
+        },
+        "end": {
+          "line": 0,
+          "character": 18
+        }
+      },
+      "text": "\"\"",
+      "timestamp": 1705776822311
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 19
+        },
+        "end": {
+          "line": 0,
+          "character": 19
+        }
+      },
+      "text": "r",
+      "timestamp": 1705776823565
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 20
+        },
+        "end": {
+          "line": 0,
+          "character": 20
+        }
+      },
+      "text": "e",
+      "timestamp": 1705776824054
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 19
+        },
+        "end": {
+          "line": 0,
+          "character": 21
+        }
+      },
+      "text": "react",
+      "timestamp": 1705776824820
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 25
+        },
+        "end": {
+          "line": 0,
+          "character": 25
+        }
+      },
+      "text": ";",
+      "timestamp": 1705776826145
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 0,
+          "character": 26
+        },
+        "end": {
+          "line": 0,
+          "character": 26
+        }
+      },
+      "text": "\n",
+      "timestamp": 1705776826560
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 1,
+          "character": 0
+        },
+        "end": {
+          "line": 1,
+          "character": 0
+        }
+      },
+      "text": "\n",
+      "timestamp": 1705776826794
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 0
+        },
+        "end": {
+          "line": 2,
+          "character": 0
+        }
+      },
+      "text": "c",
+      "timestamp": 1705776828530
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 1
+        },
+        "end": {
+          "line": 2,
+          "character": 1
+        }
+      },
+      "text": "o",
+      "timestamp": 1705776828766
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 2
+        },
+        "end": {
+          "line": 2,
+          "character": 2
+        }
+      },
+      "text": "n",
+      "timestamp": 1705776829081
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 3
+        },
+        "end": {
+          "line": 2,
+          "character": 3
+        }
+      },
+      "text": "s",
+      "timestamp": 1705776829292
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 4
+        },
+        "end": {
+          "line": 2,
+          "character": 4
+        }
+      },
+      "text": "t",
+      "timestamp": 1705776829550
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 5
+        },
+        "end": {
+          "line": 2,
+          "character": 5
+        }
+      },
+      "text": " ",
+      "timestamp": 1705776829764
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 6
+        },
+        "end": {
+          "line": 2,
+          "character": 6
+        }
+      },
+      "text": "A",
+      "timestamp": 1705776830503
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 7
+        },
+        "end": {
+          "line": 2,
+          "character": 7
+        }
+      },
+      "text": "p",
+      "timestamp": 1705776830861
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 8
+        },
+        "end": {
+          "line": 2,
+          "character": 8
+        }
+      },
+      "text": "p",
+      "timestamp": 1705776831064
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 9
+        },
+        "end": {
+          "line": 2,
+          "character": 9
+        }
+      },
+      "text": " ",
+      "timestamp": 1705776831323
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 10
+        },
+        "end": {
+          "line": 2,
+          "character": 10
+        }
+      },
+      "text": "=",
+      "timestamp": 1705776831994
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 11
+        },
+        "end": {
+          "line": 2,
+          "character": 11
+        }
+      },
+      "text": "()",
+      "timestamp": 1705776832784
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 13
+        },
+        "end": {
+          "line": 2,
+          "character": 13
+        }
+      },
+      "text": "=",
+      "timestamp": 1705776834146
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 14
+        },
+        "end": {
+          "line": 2,
+          "character": 14
+        }
+      },
+      "text": ">",
+      "timestamp": 1705776834770
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 15
+        },
+        "end": {
+          "line": 2,
+          "character": 15
+        }
+      },
+      "text": " ",
+      "timestamp": 1705776835061
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 16
+        },
+        "end": {
+          "line": 2,
+          "character": 16
+        }
+      },
+      "text": "{}",
+      "timestamp": 1705776835509
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 2,
+          "character": 17
+        },
+        "end": {
+          "line": 2,
+          "character": 17
+        }
+      },
+      "text": "\n    \n",
+      "timestamp": 1705776835870
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 3,
+          "character": 4
+        },
+        "end": {
+          "line": 3,
+          "character": 4
+        }
+      },
+      "text": "r",
+      "timestamp": 1705776837057
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 3,
+          "character": 5
+        },
+        "end": {
+          "line": 3,
+          "character": 5
+        }
+      },
+      "text": "e",
+      "timestamp": 1705776837235
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 3,
+          "character": 6
+        },
+        "end": {
+          "line": 3,
+          "character": 6
+        }
+      },
+      "text": "t",
+      "timestamp": 1705776837395
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 3,
+          "character": 4
+        },
+        "end": {
+          "line": 3,
+          "character": 7
+        }
+      },
+      "text": "return",
+      "timestamp": 1705776837885
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 3,
+          "character": 10
+        },
+        "end": {
+          "line": 3,
+          "character": 10
+        }
+      },
+      "text": "()",
+      "timestamp": 1705776839054
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 3,
+          "character": 11
+        },
+        "end": {
+          "line": 3,
+          "character": 11
+        }
+      },
+      "text": "\n        \n    ",
+      "timestamp": 1705776839577
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 8
+        },
+        "end": {
+          "line": 4,
+          "character": 8
+        }
+      },
+      "text": "<",
+      "timestamp": 1705776840467
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 9
+        },
+        "end": {
+          "line": 4,
+          "character": 9
+        }
+      },
+      "text": "V",
+      "timestamp": 1705776841284
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 10
+        },
+        "end": {
+          "line": 4,
+          "character": 10
+        }
+      },
+      "text": "i",
+      "timestamp": 1705776842364
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 11
+        },
+        "end": {
+          "line": 4,
+          "character": 11
+        }
+      },
+      "text": "e",
+      "timestamp": 1705776842627
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 12
+        },
+        "end": {
+          "line": 4,
+          "character": 12
+        }
+      },
+      "text": "w",
+      "timestamp": 1705776842906
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 13
+        },
+        "end": {
+          "line": 4,
+          "character": 13
+        }
+      },
+      "text": ">",
+      "timestamp": 1705776843722
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 14
+        },
+        "end": {
+          "line": 4,
+          "character": 14
+        }
+      },
+      "text": "</View>",
+      "timestamp": 1705776843829
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 14
+        },
+        "end": {
+          "line": 4,
+          "character": 14
+        }
+      },
+      "text": "\n            \n        ",
+      "timestamp": 1705776844192
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 8,
+          "character": 1
+        },
+        "end": {
+          "line": 8,
+          "character": 1
+        }
+      },
+      "text": "\n",
+      "timestamp": 1705776846021
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 5,
+          "character": 0
+        },
+        "end": {
+          "line": 5,
+          "character": 12
+        }
+      },
+      "text": "",
+      "timestamp": 1705776846021
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 9,
+          "character": 0
+        },
+        "end": {
+          "line": 9,
+          "character": 0
+        }
+      },
+      "text": "\n",
+      "timestamp": 1705776846246
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 0
+        },
+        "end": {
+          "line": 10,
+          "character": 0
+        }
+      },
+      "text": "e",
+      "timestamp": 1705776846846
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 1
+        },
+        "end": {
+          "line": 10,
+          "character": 1
+        }
+      },
+      "text": "x",
+      "timestamp": 1705776847244
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 2
+        },
+        "end": {
+          "line": 10,
+          "character": 2
+        }
+      },
+      "text": "p",
+      "timestamp": 1705776847495
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 3
+        },
+        "end": {
+          "line": 10,
+          "character": 3
+        }
+      },
+      "text": "o",
+      "timestamp": 1705776847768
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 0
+        },
+        "end": {
+          "line": 10,
+          "character": 4
+        }
+      },
+      "text": "export",
+      "timestamp": 1705776848074
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 6
+        },
+        "end": {
+          "line": 10,
+          "character": 6
+        }
+      },
+      "text": " ",
+      "timestamp": 1705776848254
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 7
+        },
+        "end": {
+          "line": 10,
+          "character": 7
+        }
+      },
+      "text": "d",
+      "timestamp": 1705776848726
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 8
+        },
+        "end": {
+          "line": 10,
+          "character": 8
+        }
+      },
+      "text": "e",
+      "timestamp": 1705776848960
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 9
+        },
+        "end": {
+          "line": 10,
+          "character": 9
+        }
+      },
+      "text": "f",
+      "timestamp": 1705776849241
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 7
+        },
+        "end": {
+          "line": 10,
+          "character": 10
+        }
+      },
+      "text": "default",
+      "timestamp": 1705776849557
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 14
+        },
+        "end": {
+          "line": 10,
+          "character": 14
+        }
+      },
+      "text": " ",
+      "timestamp": 1705776849794
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 15
+        },
+        "end": {
+          "line": 10,
+          "character": 15
+        }
+      },
+      "text": "A",
+      "timestamp": 1705776850868
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 10,
+          "character": 15
+        },
+        "end": {
+          "line": 10,
+          "character": 16
+        }
+      },
+      "text": "App",
+      "timestamp": 1705776853085
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 12
+        },
+        "end": {
+          "line": 4,
+          "character": 13
+        }
+      },
+      "text": "",
+      "timestamp": 1705776856232
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 12
+        },
+        "end": {
+          "line": 4,
+          "character": 12
+        }
+      },
+      "text": "w",
+      "timestamp": 1705776856639
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 4,
+          "character": 9
+        },
+        "end": {
+          "line": 4,
+          "character": 13
+        }
+      },
+      "text": "View",
+      "timestamp": 1705776858511
+    }
+  },
+  {
+    "command": "editCode",
+    "filePath": "/Users/akshay/Documents/ReactNative/TourApp/App.tsx",
+    "change": {
+      "range": {
+        "start": {
+          "line": 1,
+          "character": 0
+        },
+        "end": {
+          "line": 1,
+          "character": 0
+        }
+      },
+      "text": "import { View } from \"react-native\";\n",
+      "timestamp": 1705776858518
+    }
+  }
+]
